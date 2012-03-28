@@ -4,6 +4,8 @@ Spinto base with Blueprint
 This project helps you bootstrap into [Spinto](http://www.spintoapp.com)
 with the [Blueprint CSS framework](http://blueprintcss.org).
 
+Only `index.html` is provided by this sample site. Page layout is in the
+`_layouts` directory.
 
 **Spinto documentation**
 
